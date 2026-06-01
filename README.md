@@ -30,4 +30,4 @@ Replace placeholder text in `[brackets]` with your organization's specifics. All
 
 ---
 
-Maintained by [Andrei Pasca](https://github.com/andreisfnt)
+Maintained by [Andrei Pasca](https://github.com/andreisfnt) &nbsp;·&nbsp; [pascaadvisory.nl](https://pascaadvisory.nl)
